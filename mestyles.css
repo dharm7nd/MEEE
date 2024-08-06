@@ -258,3 +258,8 @@ a:hover {
 .btn-container{
   gap: 1rem;
 }
+
+.about-pic{
+    border-radius: 350px;
+}
+
